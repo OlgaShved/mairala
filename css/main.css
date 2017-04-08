@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600');
 
+@import url('main-header.css');
+
 *, *:after, *:before {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
